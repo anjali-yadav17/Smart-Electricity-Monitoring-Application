@@ -1,4 +1,4 @@
-<img width="365" height="796" alt="image" src="https://github.com/user-attachments/assets/8613d14f-fe4e-489b-a0b1-3e33bb8a5b51" /># Smart-Electricity-Monitoring-Application
+# Smart-Electricity-Monitoring-Application
 
 A simple Android electricity monitoring application built with **Kotlin** and **Jetpack Compose**. It demonstrates Kotlin **Flow**, **StateFlow**, `filter()`, and `map()` by processing simulated electricity readings and updating the UI automatically.
 
@@ -14,10 +14,13 @@ A simple Android electricity monitoring application built with **Kotlin** and **
 
 ## Screenshots
 
--<img width="365" height="796" alt="image" src="https://github.com/user-attachments/assets/ee08f4be-e585-434c-94b6-aa9b52971102" />
--<img width="373" height="802" alt="image" src="https://github.com/user-attachments/assets/04bfdf40-80e8-497a-8633-f15e2349a917" />
--<img width="365" height="801" alt="image" src="https://github.com/user-attachments/assets/9ae3fdde-3544-4d51-8e0c-996c78f2a593" />
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ee08f4be-e585-434c-94b6-aa9b52971102" width="250" alt="Electricity Monitoring Screen 1"/></td>
+    <td><img src="https://github.com/user-attachments/assets/04bfdf40-80e8-497a-8633-f15e2349a917" width="250" alt="Electricity Monitoring Screen 2"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9ae3fdde-3544-4d51-8e0c-996c78f2a593" width="250" alt="Electricity Monitoring Screen 3"/></td>
+  </tr>
+</table>
 
 ## Technology Stack
 
